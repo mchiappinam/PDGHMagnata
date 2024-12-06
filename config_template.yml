@@ -1,0 +1,14 @@
+###Copyright PDGH Minecraft Servers & HostLoad © 2013-XXXX
+###Todos os direitos reservados
+###Uso apenas para a PDGH.com.br e https://HostLoad.com.br
+###Caso você tenha acesso a esse sistema, você é privilegiado!
+MySQL:
+  host: localhost
+  porta: 3306
+  usuario: root
+  senha: '123456'
+  db: dayz_iconomy
+  tabela: iConomy
+magnata:
+  nick: mchiappinam
+  desde: 07/04/2017
